@@ -8,7 +8,7 @@
 With [npm](https://npmjs.org/package/postcss-merge-rules2) do:
 
 ```
-npm install postcss-merge-rules2 --save
+npm i git+https://github.com/gdvyas/postcss-merge-rules2.git --save-d
 ```
 
 ## Differenet betten postcss-merge-rule and postcss-merge-rule2
